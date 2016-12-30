@@ -1,5 +1,5 @@
 ## Python 练习册，每天一个小程序 ##
-
+##转载自https://github.com/Yixiaohan/show-me-the-code：谢谢大佬，我拷贝过来自己做一做##
 
 #### 说明： ####
 
