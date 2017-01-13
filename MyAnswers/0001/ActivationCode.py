@@ -25,11 +25,3 @@ for key in c :
     print("C[%s]="% key, c[key])
 
 print(c)
-
-
-
-
-
-
-
-
